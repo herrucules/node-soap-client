@@ -1,0 +1,15 @@
+{
+  "name": "soapclientapp",
+  "version": "1.0.0",
+  "description": "Nodejs SOAP client app",
+  "main": "soapclient.js",
+  "dependencies": {
+    "soap": "^0.11.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herru",
+  "license": "ISC"
+}

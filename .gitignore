@@ -1,0 +1,6 @@
+#untracked folders
+node_modules
+
+#untracked files
+soapsvr.js
+Thumbs.db
